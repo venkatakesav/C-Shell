@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "unistd.h": "c",
+        "command_handling.h": "c",
+        "stdbool.h": "c",
+        "location.h": "c",
+        "history.h": "c",
+        "general_command.h": "c"
+    }
+}
